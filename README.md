@@ -67,9 +67,8 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-amin&theme=tokyonight&hide_border=true" alt="nabil-amin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabil-amin&show_icons=true&theme=tokyonight&hide_border=true" alt="nabil-amin" height="160" />
 </p>
 
 ---
