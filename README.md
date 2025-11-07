@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabil-amin&show_icons=true&theme=tokyonight&hide_border=true" alt="nabil-amin" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-amin&layout=compact&theme=tokyonight&hide_border=true" alt="nabil-amin" height="160" />
 </p>
 
 ---
