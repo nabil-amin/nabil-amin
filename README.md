@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **Flutter**  
-- 💬 Ask me about **Android**  
+- 💬 Ask me about **ReactNative**  
 - 📫 Reach me at **nabil.amin.samir@gmail.com**  
 - ⚡ Passionate about creating **user-focused mobile and web apps**
 
