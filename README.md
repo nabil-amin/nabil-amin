@@ -57,6 +57,11 @@
   </a>
 </p>
 ---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-amin&layout=compact&theme=tokyonight&hide_border=true" alt="nabil-amin" height="160" />
+</p>
+---
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 enehnce this becouse ### 📊 GitHub Stats faield
