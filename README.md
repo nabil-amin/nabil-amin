@@ -426,7 +426,7 @@
   <!-- HEADER -->
   <div class="header">
     <div class="header-glow"></div>
-    <div class="greeting">Hi 👋</div>
+    <div class="greeting">// Hello, World!</div>
     <h1 class="name">Nabil Amin</h1>
     <p class="title">Experienced Software Developer &nbsp;·&nbsp; <span>React & React Native Specialist</span></p>
   </div>
@@ -484,6 +484,34 @@
       <div class="tech-pill"><span class="dot"></span>HTML5</div>
       <div class="tech-pill"><span class="dot"></span>CSS3</div>
       <div class="tech-pill"><span class="dot"></span>Sass</div>
+    </div>
+  </div>
+
+  <!-- STATS -->
+  <div class="section">
+    <div class="section-label">📊 GitHub Stats</div>
+
+    <div class="stats-grid" style="margin-bottom: 16px;">
+      <div class="stat-card">
+        <div class="stat-value" id="repos">–</div>
+        <div class="stat-label">Public Repos</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="followers">–</div>
+        <div class="stat-label">Followers</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="following">–</div>
+        <div class="stat-label">Following</div>
+      </div>
+    </div>
+
+    <div class="lang-section">
+      <div class="lang-title">// Top Languages</div>
+      <div id="langs-container">
+        <!-- Filled by JS -->
+        <div id="lang-loading" style="color:var(--muted);font-size:0.85rem;font-family:'Space Mono',monospace;">Fetching from GitHub API...</div>
+      </div>
     </div>
   </div>
 
